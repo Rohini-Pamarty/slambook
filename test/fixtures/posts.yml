@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  address: MyText
+  dob: 2011-06-16
+  interests: MyText
+  hobby: MyText
+  desire: MyText
+
+two:
+  name: MyString
+  address: MyText
+  dob: 2011-06-16
+  interests: MyText
+  hobby: MyText
+  desire: MyText
